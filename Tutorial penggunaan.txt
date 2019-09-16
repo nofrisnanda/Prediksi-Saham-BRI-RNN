@@ -1,0 +1,8 @@
+1. buka file "rnn.py" menggunakan aplikasi spyder dengan versi python 3.7
+2. pastikan file rnn.py, data train dan data test berada pada satu folder yang sama
+3. lakukan run pada aplikasi spyder
+4. tunggu beberapa saat sampai semua epoch selesai running
+5. akan muncul plotting hasil perbandingan
+6. untuk melihat hasil prediksi lihat pada tab kanan atas dan ganti menjadi variable
+   pada tab itu akan menampilkan semua data frame yang digunakan termasuk hasil
+   prediksi.
